@@ -1,2 +1,2 @@
-# Projetos-HTML-CSS
- Alguns projetos que fiz utilizando apenas HTML5 & CSS3
+# Projetos HTML5 & CSS3
+ Repositório de HTML5 & CSS3
